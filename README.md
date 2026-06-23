@@ -211,15 +211,18 @@ Generated future sales estimates to support planning and inventory optimization.
 
 ---
 
-## ⭐ Key Contributions
+## Contributors
 
-### **Satyarth Pandey**
-**Customer Segmentation (RFM Analysis + K-Means Clustering)**
+### Satyarth Pandey
+
+#### Customer Segmentation (RFM Analysis + K-Means Clustering)
+
 - Designed and implemented the complete RFM pipeline
 - Applied StandardScaler and K-Means clustering
 - Generated customer segments: Champions, Loyal, High Value, Hibernating
 
-**Inventory Intelligence (ABC Analysis + Risk Assessment)**
+#### Inventory Intelligence (ABC Analysis + Risk Assessment)
+
 - Developed ABC Inventory Analysis
 - Implemented inventory risk classification
 - Built automated reorder recommendation system
@@ -227,16 +230,26 @@ Generated future sales estimates to support planning and inventory optimization.
 ---
 
 ### Shreyas Kiran
-**Data Collection & Preprocessing**
+
+#### Data Collection & Preprocessing
+
+---
 
 ### Sariki Rakesh Sai
-**Sales Forecasting**
+
+#### Sales Forecasting
+
+---
 
 ### Piyush Sudhakan Burge
-**Dashboard Development & Visualization**
+
+#### Dashboard Development & Visualization
+
+---
 
 ### Subhadra Kumari
-**Project Integration & Testing**
+
+#### Project Integration & Testing
 ---
 
 ## Future Enhancements
