@@ -219,11 +219,11 @@ Generated future sales estimates to support planning and inventory optimization.
 
 **### Customer Segmentation (RFM Analysis + K-Means Clustering)**
 
-**Satyarth Pandey**
+***Satyarth Pandey**
 
 **### Inventory Intelligence (ABC Analysis + Risk Assessment)**
 
-**Satyarth Pandey**
+***Satyarth Pandey**
 
 ### Sales Forecasting
 
